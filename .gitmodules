@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/JustSage/server
+[submodule "client"]
+	path = client
+	url = https://github.com/JustSage/client
